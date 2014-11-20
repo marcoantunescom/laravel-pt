@@ -3,7 +3,7 @@
 Language translation to portuguese.
 
 ## Installation
-Just copy this folder to app/lang/.
+Just copy the pt folder to app/lang/
 
 ## Laravel PHP Framework
 
@@ -24,3 +24,5 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+Happy coding! =)

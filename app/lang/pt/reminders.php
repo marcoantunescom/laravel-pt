@@ -21,4 +21,6 @@ return array(
 
     "sent"      => "Lembrete da palavra-chave enviado!",
 
+    "reset" 	=> "A senha foi redefinida!",
+
 );

@@ -27,6 +27,7 @@ return array(
 		"string"    => "O campo :attribute deve estar entre :min - :max caracteres.",
         "array"     => "O :attribute deve estar entre :min e :max itens.",
 	),
+	"boolean"              	=> "O campo :attribute deve ser verdadeiro ou falso.",
 	"confirmed"             => "O :attribute confirmação não coincide.",
 	"date"                  => "O :attribute não é uma data válida.",
 	"date_format"           => "O :attribute não corresponde ao formato :format.",
@@ -70,6 +71,7 @@ return array(
 	),
 	"unique"                => "Este :attribute já existe.",
 	"url"                   => "O formato :attribute é inválido.",
+	"timezone"             	=> "O :attribute deve ser um fuso horário valido.",
 
 	/*
 	|--------------------------------------------------------------------------
